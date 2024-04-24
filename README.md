@@ -16,7 +16,7 @@
 
 <be>
 
-- 🌱 I’m currently studying at **Brindavan Collage of Engineering, Bangalore City**
+- 🌱 I’m currently studying at **REVA UNIVERSITY**
 
 - 👨‍💻 All of my projects are available at [https://skgupta.vercel.app](https://skgupta.vercel.app)
 
